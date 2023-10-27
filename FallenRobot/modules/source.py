@@ -29,7 +29,7 @@ async def repo(_, message: Message):
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
                         "sᴏᴜʀᴄᴇ",
-                        url="https://telegra.ph/file/617a7c468f993bb5e567a.mp4",
+                        url="https://t.me/venom_world_chatting_club",
                     ),
                 ]
             ]
