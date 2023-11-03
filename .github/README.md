@@ -5,10 +5,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/NITISHSHARMA143123/Lily-help-/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/NITISHSHARMA143123/Lily-help-/blob/master/Lily-help-/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Lily_help_robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝐋𝐢𝐥𝐲 ✘ 𝐇𝐞𝐥𝐩](https://t.me/Lily_help_robot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
